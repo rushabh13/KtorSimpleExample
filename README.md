@@ -1,6 +1,9 @@
 # KtorSimpleExample
 A very basic Ktor Example Project.
 
+Doc:
+- https://oguzhanaslann.medium.com/ktor-for-android-development-6ae5a7b2a3ff
+
 Used Libraies : 
   - Ktor 
   - ViewModel
